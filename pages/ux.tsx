@@ -37,13 +37,14 @@ const Home: NextPage = () => {
       <Spacer y={2} />
       <Text>
         Moving forward, I had the chance to work with new products and teams as
-        a User Experience Designer, Interaction Design's better-known cousin.
+        a User Experience Designer, Interaction Design&apos;s better-known
+        cousin.
       </Text>
       <Spacer y={2} />
       <Text>
         UX as a field has grown a lot and has spawned whole new divisions in big
         companies. And that is really great, it shows how much designing from
-        the user's needs perspective has a positive impact on companies,
+        the user&apos;s needs perspective has a positive impact on companies,
         services, and products.
       </Text>
       <Spacer y={2} />
@@ -55,16 +56,16 @@ const Home: NextPage = () => {
       </Text>
       <Spacer y={2} />
       <Text>
-        So that's why, in my interpretation, some designers started doing a
-        leaner version of the known UX processes. The concept of Lean UX isn't
-        new and I first read about it in this post from Jeff Gothelf from 2011,
-        and it probably was the biggest influence on Jake Knapp's Design Sprint
-        methodology, which I'm also a big fan.
+        So that&apos;s why, in my interpretation, some designers started doing a
+        leaner version of the known UX processes. The concept of Lean UX
+        isn&apos;t new and I first read about it in this post from Jeff Gothelf
+        from 2011, and it probably was the biggest influence on Jake
+        Knapp&apos;s Design Sprint methodology, which I&apos;m also a big fan.
       </Text>
       <Spacer y={2} />
       <Text>
         Regardless of the method or how we call it, we need to recover that
-        sense of understanding people's desires and needs and create proper
+        sense of understanding people&apos;s desires and needs and create proper
         innovative environments for new interaction solutions to appear, that
         are again user-centered.
       </Text>
