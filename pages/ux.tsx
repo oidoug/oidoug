@@ -80,9 +80,9 @@ const Home: NextPage = () => {
       </Text>
       <Spacer y={2} />
       <Text>
-        There's actually no secret sauce. Successful founders have been doing
-        that empirically since always. We designers complicate stuff for several
-        and no reason at all.
+        There&apos;s actually no secret sauce. Successful founders have been
+        doing that empirically since always. We designers complicate stuff for
+        several and no reason at all.
       </Text>
       <Spacer y={2} />
       <Text>Douglas A. Schmidt</Text>
