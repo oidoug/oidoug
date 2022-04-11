@@ -21,14 +21,18 @@ const Home: NextPage = () => {
           <Text h1>Oi,&nbsp; I&apos;m Doug&nbsp; 👋</Text>
           <Spacer />
           <Text h1>
-            I create digital products from idea to production using{" "}
-            <NavLink a="/ux/">Lean UX</NavLink> and developing using
-            fast-to-ship tools like{" "}
-            <NavLink a="/react-native/">React-Native</NavLink> and{" "}
+            I create digital products from idea to production using fast-to-ship
+            tools like <NavLink a="/react-native/">React-Native</NavLink> and{" "}
             <NavLink a="/firebase/">Firebase</NavLink>.
           </Text>
           <Spacer />
-          <Text></Text>
+          <Text>
+            Check my{" "}
+            <NavLink a="https://www.linkedin.com/in/schmidtdouglas/">
+              LinkedIn
+            </NavLink>{" "}
+            where I talk about design, enterpreneuship, and product management.
+          </Text>
           <Spacer y={2} />
           <ThemeChanger />
           <Spacer y={6} />
